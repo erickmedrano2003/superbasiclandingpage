@@ -95,3 +95,22 @@ li a:hover {
 .description {
     padding: 0 40px;
 }
+.end {
+    background-color: rgb(237, 233, 228);
+}
+.end .container {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 0;
+    width: 800px;
+    gap: 16px;
+}
+.quote {
+    text-align: center;
+    align-self: center;
+    font-size: 20px;
+}
+.author {
+    align-self: end;
+    font-size: 16px;
+}
