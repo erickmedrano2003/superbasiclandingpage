@@ -150,3 +150,11 @@ li a:hover {
 .section4 button {
     align-self: flex-end;
 }
+footer {
+    background-color: black;
+}
+.footertext {
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
